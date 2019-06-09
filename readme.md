@@ -6,5 +6,5 @@ Learned how to implement a WYSIWYG (CK Editor) editor to a modal.
 
 Tools & Languages:
 HTML5
-CSS (CSS3, Bootstrap 4, SASS)
+CSS (CSS3, Bootstrap 4)
 JavaScript (jQuery)
